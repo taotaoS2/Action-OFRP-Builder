@@ -14,7 +14,7 @@ on:
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/taotaoS2/orangefox_device_twrp_moba'
+        default: 'https://github.com/lenovo-sm8250-devs/recovery_device_moba'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
